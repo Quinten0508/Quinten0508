@@ -1,6 +1,6 @@
 #[I'm](https://www.quinten0508.com)
 
-<img scr="https://raw.githubusercontent.com/Quinten0508/Quinten0508/main/i-hate-everything.svg" alt="i hate everything">
+<img scr="./i-hate-everything.svg" alt="i hate everything">
 
 I've written at least 3½ lines of code (I think).
 

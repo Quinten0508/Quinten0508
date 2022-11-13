@@ -1,8 +1,11 @@
-#[I'm](https://www.quinten0508.com)
-
 <h1>
-<img scr="./i-hate-everything.svg" alt="i hate everything">
+  [I'm](https://www.quinten0508.com)
 </h1>
+
+<p>
+  <img scr="./i-hate-everything.svg">
+</p>
+
 I've written at least 3½ lines of code (I think).
 
 

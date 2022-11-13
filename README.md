@@ -1,9 +1,9 @@
 <h1>
-  <a href-"https://www.quinten0508.com">I'm</a>
+  <a href="https://www.quinten0508.com">I'm</a>
 </h1>
 
 <p>
-  <img scr="./i-hate-everything.svg">
+  <img scr="i-hate-everything.svg">
 </p>
 
 I've written at least 3½ lines of code (I think).

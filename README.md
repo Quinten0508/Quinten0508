@@ -1,7 +1,6 @@
 <h1>
   <a href="https://www.quinten0508.com">I'm</a>
 </h1>
-<img align="right" width="310" alt="SVG" src="https://github-profile-spotify-status-gcw9.vercel.app/?" />
 <!--- ![i-hate-everything](https://user-images.githubusercontent.com/55107945/201538347-1773cca0-bdf8-4fa4-8b1f-15f3223244d3.svg) -->
 
 
